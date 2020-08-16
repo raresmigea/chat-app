@@ -11,7 +11,7 @@ function App() {
           target='_blank'
           rel='noopener noreferrer'
         >
-          Chat Application
+          Chat App
         </a>
       </header>
     </div>
