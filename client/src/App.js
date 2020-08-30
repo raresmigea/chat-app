@@ -6,7 +6,7 @@ export default function App() {
     <div className='App'>
       <header className='App-header'>
         <a className='App-link' href='https://reactjs.org'>
-          Chat App
+          Chat Application
         </a>
       </header>
     </div>
